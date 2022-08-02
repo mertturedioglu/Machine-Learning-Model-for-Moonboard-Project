@@ -1,3 +1,3 @@
-# moonboard-project-ML
+# Machine-Learning-Model-for-Moonboard-Project
 
-machine learning model for difficulty assessment of climbing routes
+Decision Tree - Random Forest Algorithm
